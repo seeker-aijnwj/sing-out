@@ -1,0 +1,33 @@
+[
+  {
+    "id": "song_001",
+    "number": 1,
+    "title": "Ouvre mes yeux Saint Esprit",
+    "category": "Recueillement",
+    "language": "Français",
+    "author": "",
+    "sections": [
+      {
+        "id": "v1",
+        "type": "verse",
+        "title": "V1",
+        "lines": [
+          "Saint Esprit",
+          "Agis encore",
+          "Agis encore",
+          "Dans ma vie"
+        ]
+      },
+      {
+        "id": "c1",
+        "type": "chorus",
+        "title": "Refrain",
+        "lines": [
+          "Ouvre mes yeux",
+          "Pour que je voie",
+          "Jésus assis sur le Trône"
+        ]
+      }
+    ]
+  }
+]
